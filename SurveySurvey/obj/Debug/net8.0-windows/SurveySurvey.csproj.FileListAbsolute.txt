@@ -1,0 +1,17 @@
+C:\Users\L63Y10W09\source\repos\SurveySurvey\bin\Debug\net8.0-windows\SurveySurvey.exe
+C:\Users\L63Y10W09\source\repos\SurveySurvey\bin\Debug\net8.0-windows\SurveySurvey.deps.json
+C:\Users\L63Y10W09\source\repos\SurveySurvey\bin\Debug\net8.0-windows\SurveySurvey.runtimeconfig.json
+C:\Users\L63Y10W09\source\repos\SurveySurvey\bin\Debug\net8.0-windows\SurveySurvey.dll
+C:\Users\L63Y10W09\source\repos\SurveySurvey\bin\Debug\net8.0-windows\SurveySurvey.pdb
+C:\Users\L63Y10W09\source\repos\SurveySurvey\obj\Debug\net8.0-windows\SurveySurvey.Form1.resources
+C:\Users\L63Y10W09\source\repos\SurveySurvey\obj\Debug\net8.0-windows\SurveySurvey.csproj.GenerateResource.cache
+C:\Users\L63Y10W09\source\repos\SurveySurvey\obj\Debug\net8.0-windows\SurveySurvey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L63Y10W09\source\repos\SurveySurvey\obj\Debug\net8.0-windows\SurveySurvey.AssemblyInfoInputs.cache
+C:\Users\L63Y10W09\source\repos\SurveySurvey\obj\Debug\net8.0-windows\SurveySurvey.AssemblyInfo.cs
+C:\Users\L63Y10W09\source\repos\SurveySurvey\obj\Debug\net8.0-windows\SurveySurvey.csproj.CoreCompileInputs.cache
+C:\Users\L63Y10W09\source\repos\SurveySurvey\obj\Debug\net8.0-windows\SurveySurvey.dll
+C:\Users\L63Y10W09\source\repos\SurveySurvey\obj\Debug\net8.0-windows\refint\SurveySurvey.dll
+C:\Users\L63Y10W09\source\repos\SurveySurvey\obj\Debug\net8.0-windows\SurveySurvey.pdb
+C:\Users\L63Y10W09\source\repos\SurveySurvey\obj\Debug\net8.0-windows\SurveySurvey.genruntimeconfig.cache
+C:\Users\L63Y10W09\source\repos\SurveySurvey\obj\Debug\net8.0-windows\ref\SurveySurvey.dll
+C:\Users\L63Y10W09\source\repos\SurveySurvey\obj\Debug\net8.0-windows\SurveySurvey.Form2.resources

@@ -1,0 +1,313 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!--
+    Microsoft ResX Schema
+
+    Version 2.0
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
+    associated with the data types.
+
+    Example:
+
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+
+    There are any number of "resheader" rows that contain simple
+    name/value pairs.
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
+    mimetype set.
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
+    extensible. For a given mimetype the value must be set accordingly:
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
+    read any of the formats listed below.
+
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBox6.Text" xml:space="preserve">
+    <value>C1. How many of the students in this class...
+
+Student Behavior Observations
+
+"How often does the student..."
+
+1. ...come to class on time?
+
+2. ...attend class regularly?
+
+3. ...come to class prepared with appropriate materials?
+
+4. ...regularly pay attention in class?
+
+5. ...actively participate in class activities?
+
+6. ...always turn in their homework?
+
+
+
+Section C2: Teacher-Student Interactions
+
+"During the past 3 months, how often have you..."
+
+1. ...noticed that a student was upset and asked him/her about what was going on?
+
+2. ...talked with students about how to deal with stressful experiences?
+
+3. ...given a student the opportunity to discuss something that was bothering him/her?
+
+4. ...talked informally with students before, during, or after class about their interests?
+
+5. ...had a conversation with a student or a group of students about personal issues or concerns they had?
+
+6. ...asked students to share with you what’s going on in their lives?
+
+7. ...asked students to work together to complete an assignment or learn something new?
+
+8. ...asked students to discuss class material with each other?
+
+9. ...provided time for students to work together on class-related material?
+
+
+Section C3: Mental Health Promotion Strategies
+
+"During the past 3 months, how often have you used the following strategies with students in this classroom?"
+
+1. Modelled a desired behaviour to promote the student’s imitation and subsequent performance of that behaviour.
+
+2. Taught a student calming techniques, such as muscle relaxation, breathing exercises, meditation, and similar activities.
+
+3. Administered rewards and/or praise to reinforce the student’s behaviour.
+
+4. Encouraged a student to participate in pleasurable activities on a regular basis.
+
+5. Practiced specific activities with the intention of building skills.
+
+6. Encouraged the student to reward him/herself for performing a desired behaviour.
+
+7. Provided tangible rewards, such as tokens, points and charts, as reinforcement for desired behaviours.
+
+8. Provided social rewards, such as praise, encouragement, and affection, to promote desired behaviours.
+
+9. Taught the student social skills with the goal of improving interpersonal functioning.
+
+10. Matched the student with a peer to facilitate reciprocal learning or practice skills.
+
+11. Taught the student to solve problems by outlining steps, such as identifying the problem, generating multiple solutions, and selecting the best alternative.
+
+12. Selectively ignored mildly inappropriate behaviours and attended to alternative behaviours.
+</value>
+  </data>
+  <data name="textBox5.Text" xml:space="preserve">
+    <value>B6. During the past 3 months, how many times have you sent a student from this class to the office for inappropriate behaviour? If you sent the same student multiple times, please count each time separately.
+
+
+
+What percentage of class time is typically spent on each of the following activities?
+
+B7a. % Administrative tasks (e.g., recording attendance, handing out school information/forms)
+
+
+
+B7b. % Keeping order in the classroom (e.g., maintaining discipline)
+
+
+
+B7c. % Teaching and Learning
+
+
+</value>
+  </data>
+  <data name="textBox3.Text" xml:space="preserve">
+    <value>Please indicate how often the following features are in place in this classroom.
+
+
+1. Expected student behaviours and routines are taught directly.
+
+2. Expected student behaviours are acknowledged regularly (positively reinforced).
+
+3. Problem behaviours (failure to meet expected student behaviours) are defined clearly.
+
+4. Consequences for problem behaviours are defined clearly.
+
+5. Problem behaviours receive consistent consequences.
+
+6. A variety of methods are used to reward students.
+
+7. Rewards are linked to expectations and rules.
+
+8. Rewards are varied to maintain student interest.</value>
+  </data>
+  <data name="textBox4.Text" xml:space="preserve">
+    <value>1.Since the beginning of this school year, how many weeks have you been teaching the class completing the student survey?
+
+
+
+2. Is this class a:
+
+
+
+3. What grade level is this class? If this is a split grade class, please specify both grades.
+
+
+
+4. How many students are enrolled in this class?
+
+</value>
+  </data>
+  <data name="textBox2.Text" xml:space="preserve">
+    <value>1.Students are taught to feel responsible for how they act.
+
+2. Teachers, staff, and administrators work well together in this school.
+
+3. This school is well regarded by the community.
+
+4. Students are taught to understand how others think and feel.
+
+5. Teachers work closely with parents to help students when they have problems.
+
+6. This school has effective partnerships with community organizations.
+
+7. Teachers expect all students to work hard.
+
+8. Teachers show respect toward parents.
+
+9. Students are taught that they can control their own behaviour.
+
+10. Teachers require students to work hard to get good grades.
+
+11. Students are taught how to solve conflicts with others.
+
+12. Administrators and teachers support one another.
+
+13. Students are taught they should care about how others feel.
+
+14. Teachers do a good job communicating with parents.
+
+15. Teachers expect students to do their best all the time.
+
+16. Teachers listen to the concerns of parents.
+
+17. There is good communication among teachers, staff, and administrators.
+
+18. Having strong community relations is a priority in this school.</value>
+  </data>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>Researchers at McMaster University are conducting the School Mental Health Surveys, which are part of the 2014 Ontario Child Health Study. These surveys ask about school climate and programs and practices in your school that support student mental health. Teachers can offer unique perspectives on how to support student mental health. Therefore, we ask that you report honestly about how you feel and what you do when working at this school.
+
+Teacher identities will be kept strictly confidential. No one at your school or board will know what you answered. Your survey will go directly to researchers at McMaster University and will be combined with those of other teachers and used for research purposes only.
+
+Information from the School Mental Health Surveys will be used to help improve our schools so that children and youth in Ontario reach their full potential.
+
+Thank you for participating!
+
+Instructions:
+If you are a supply teacher for the class of students completing this survey and have been teaching them for less than 4 weeks, please DO NOT complete this survey. Please give this survey and the instructions to the regular classroom teacher for completion.
+
+Use a black or blue pen, or pencil.
+
+Put an ‘X’ in the box next to your response. You do not need to fill in the box.
+
+If you are not sure how to answer a question, please try your best.
+
+Leave the question blank if it makes you uncomfortable.
+
+Please do NOT put your name anywhere on the survey.
+
+
+
+When completed, please put your survey in the envelope provided and seal it.</value>
+  </data>
+</root>

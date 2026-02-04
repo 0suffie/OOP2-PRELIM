@@ -8,23 +8,23 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\L63Y10W09\\.nuget\\packages\\": {},
+    "C:\\Users\\suffie\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\L63Y10W09\\source\\repos\\SurveySurvey\\SurveySurvey.csproj",
+      "projectUniqueName": "C:\\Users\\suffie\\Source\\Repos\\OOP2-PRELIM\\SurveySurvey\\SurveySurvey.csproj",
       "projectName": "SurveySurvey",
-      "projectPath": "C:\\Users\\L63Y10W09\\source\\repos\\SurveySurvey\\SurveySurvey.csproj",
-      "packagesPath": "C:\\Users\\L63Y10W09\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\L63Y10W09\\source\\repos\\SurveySurvey\\obj\\",
+      "projectPath": "C:\\Users\\suffie\\Source\\Repos\\OOP2-PRELIM\\SurveySurvey\\SurveySurvey.csproj",
+      "packagesPath": "C:\\Users\\suffie\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\suffie\\Source\\Repos\\OOP2-PRELIM\\SurveySurvey\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\L63Y10W09\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\suffie\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,7 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

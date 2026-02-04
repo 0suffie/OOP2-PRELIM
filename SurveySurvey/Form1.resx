@@ -117,6 +117,108 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="textBox10.Text" xml:space="preserve">
+    <value>I1. Are you... 
+
+                Female 
+
+                Male 
+
+I2. Were you born in Canada? 
+
+                No 
+
+                Yes 
+
+I3. Which category best describes your race or cultural group? Mark all that apply. 
+
+                White 
+
+                East Asian (e.g., Chinese, Japanese, Korean) 
+
+                Southeast Asian (e.g., Vietnamese, Filipino, Cambodian, Malaysian, Laotian) 
+
+                South Asian (e.g., East Indian, Pakistani, Sri Lankan, Afghan, Bangladeshi) 
+
+                West Asian (e.g., Iraqi, Syrian, Lebanese) 
+
+                Arab 
+
+                Black African (e.g., Ghanaian, Kenyan), Black Caribbean (e.g., Jamaican, Haitian) or Black Canadian or American 
+
+                Latin American, Central American, or South American (e.g., Mexican, Colombian, Brazilian, Chilean) 
+
+                Aboriginal/Native (e.g., First Nations, Métis, or Inuit) 
+
+                Other 
+
+I4. Including this school year, how many years of work experience do you have working as a teacher... (Please round up to whole years): 
+
+
+
+...at  this school?
+
+
+...in total?
+</value>
+  </data>
+  <data name="textBox9.Text" xml:space="preserve">
+    <value>G1. During the past two years, did you receive any training in the following topics? This might include workshops, 
+conferences, continuing education, graduate courses or other kinds of in-service training. 
+
+1. Promoting social and emotional well-being 
+
+2. Creating a mentally healthy classroom 
+
+3. Preventing mental health problems 
+
+4. Managing behaviour problems in the classroom 
+
+5. Reducing stigma related to mental health problems 
+
+6. Recognizing signs and symptoms of mental health and/or substance abuse problems 
+
+7. Assisting students to access help for mental health problems 
+
+8. Physical, sexual or emotional abuse 
+
+9. Serious mental health or substance use problems (i.e., depression, anxiety, aggression, suicidal behaviour, self-harm) 
+
+10. Bullying and victimization, including cyberbullying 
+
+11. Sexual harassment or dating violence</value>
+  </data>
+  <data name="textBox8.Text" xml:space="preserve">
+    <value>F1. To what extent do you agree or disagree that the following are
+ barriers to addressing student mental health in your school?
+
+
+
+1. Low priority given to student mental health versus other initiatives in the school.
+
+2. Lack of adequate staff training to address student mental health in the school.
+
+3. Stigma (negative attitudes or unfair treatment) associated with mental health problems.
+
+4. Language and cultural barriers arising from an ethnically and racially diverse student population.
+
+5. Lack of contact between the school and parents.</value>
+  </data>
+  <data name="textBox7.Text" xml:space="preserve">
+    <value>D1. During the past 30 days, about how often did you feel...
+
+1. ...nervous?
+	
+2. ...hopeless?
+	
+3. ...restless or fidgety?	
+
+4. ...so depressed that nothing could cheer you up?
+	
+5. ...that everything was an effort?	
+
+6. ...worthless?</value>
+  </data>
   <data name="textBox6.Text" xml:space="preserve">
     <value>C1. How many of the students in this class...
 
@@ -240,6 +342,7 @@ B7c. % Teaching and Learning
 
 
 3. What grade level is this class? If this is a split grade class, please specify both grades.
+
 
 
 

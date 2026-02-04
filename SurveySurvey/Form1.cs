@@ -62,5 +62,47 @@ namespace SurveySurvey
         {
 
         }
+
+        private void radioButton72_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label13_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label14_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox8_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label23_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label29_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            
+            Form2 thankYouPage = new Form2();
+            
+            thankYouPage.Show();
+            
+            this.Hide();
+            
+            thankYouPage.FormClosed += (s, args) => this.Close();
+        }
     }
 }
